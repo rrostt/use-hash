@@ -7,6 +7,11 @@
     "build": "babel lib --out-file dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/rrostt/use-hash",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rrostt/use-hash"
+  },
   "keywords": [],
   "author": "Mattias Rost",
   "license": "MIT",
